@@ -1,0 +1,12 @@
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\bin\Debug\net5.0\TaxaJuros.Api.Core.deps.json
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\bin\Debug\net5.0\TaxaJuros.Api.Core.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\bin\Debug\net5.0\ref\TaxaJuros.Api.Core.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\bin\Debug\net5.0\TaxaJuros.Api.Core.pdb
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.AssemblyInfoInputs.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.AssemblyInfo.cs
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.csproj.CoreCompileInputs.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\ref\TaxaJuros.Api.Core.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.pdb
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Core\obj\Debug\net5.0\TaxaJuros.Api.Core.csprojAssemblyReference.cache

@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Domain\\TaxaJuros.Api.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Core\\TaxaJuros.Api.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Core\\TaxaJuros.Api.Core.csproj",
+        "projectName": "TaxaJuros.Api.Core",
+        "projectPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Core\\TaxaJuros.Api.Core.csproj",
+        "packagesPath": "C:\\Users\\lmm\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pitang.pkgs.visualstudio.com/_packaging/pitang.feed@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Domain\\TaxaJuros.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Domain\\TaxaJuros.Api.Domain.csproj",
+        "projectName": "TaxaJuros.Api.Domain",
+        "projectPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Domain\\TaxaJuros.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\lmm\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pitang.pkgs.visualstudio.com/_packaging/pitang.feed@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Core\\TaxaJuros.Api.Core.csproj": {
+                "projectPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Core\\TaxaJuros.Api.Core.csproj"
+              },
+              "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Infraestructure\\TaxaJuros.Api.Infraestructure.csproj": {
+                "projectPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Infraestructure\\TaxaJuros.Api.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Infraestructure\\TaxaJuros.Api.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Infraestructure\\TaxaJuros.Api.Infraestructure.csproj",
+        "projectName": "TaxaJuros.Api.Infraestructure",
+        "projectPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Infraestructure\\TaxaJuros.Api.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\lmm\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\TaxaJuros\\TaxaJuros.Api.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pitang.pkgs.visualstudio.com/_packaging/pitang.feed@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

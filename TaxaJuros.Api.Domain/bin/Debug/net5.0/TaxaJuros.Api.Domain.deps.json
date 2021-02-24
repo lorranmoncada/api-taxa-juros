@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TaxaJuros.Api.Domain/1.0.0": {
+        "dependencies": {
+          "TaxaJuros.Api.Core": "1.0.0",
+          "TaxaJuros.Api.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "TaxaJuros.Api.Domain.dll": {}
+        }
+      },
+      "TaxaJuros.Api.Core/1.0.0": {
+        "runtime": {
+          "TaxaJuros.Api.Core.dll": {}
+        }
+      },
+      "TaxaJuros.Api.Infraestructure/1.0.0": {
+        "runtime": {
+          "TaxaJuros.Api.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxaJuros.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxaJuros.Api.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxaJuros.Api.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

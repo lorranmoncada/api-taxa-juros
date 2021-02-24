@@ -1,0 +1,17 @@
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Domain.deps.json
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Domain.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\ref\TaxaJuros.Api.Domain.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Domain.pdb
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.AssemblyInfoInputs.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.AssemblyInfo.cs
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\ref\TaxaJuros.Api.Domain.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.pdb
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Infraestructure.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Infraestructure.pdb
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.csprojAssemblyReference.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\obj\Debug\net5.0\TaxaJuros.Api.Domain.csproj.CopyComplete
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Core.dll
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain\bin\Debug\net5.0\TaxaJuros.Api.Core.pdb

@@ -1,0 +1,4 @@
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain.Teste\obj\Debug\netcoreapp3.1\TaxaJuros.Api.Domain.Teste.csprojAssemblyReference.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain.Teste\obj\Debug\netcoreapp3.1\TaxaJuros.Api.Domain.Teste.AssemblyInfoInputs.cache
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain.Teste\obj\Debug\netcoreapp3.1\TaxaJuros.Api.Domain.Teste.AssemblyInfo.cs
+C:\Estudos\TaxaJuros\TaxaJuros.Api.Domain.Teste\obj\Debug\netcoreapp3.1\TaxaJuros.Api.Domain.Teste.csproj.CoreCompileInputs.cache
